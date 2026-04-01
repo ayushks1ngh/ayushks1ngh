@@ -58,18 +58,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31vjkdfk54fc6a67muupmvokzqru">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vjkdfk54fc6a67muupmvokzqru&count=3" alt="Spotify recently played" />
-  </a>
-</div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=60&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
-</div>
-
-###
