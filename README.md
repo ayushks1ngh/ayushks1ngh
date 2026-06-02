@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hi, I'm Ayush<br>AI Engineer · Building AI Systems & Scalable Backends</h1>
+<h1 align="left">Hi, I'm Ayush<br>AI Native Engineer · Building AI Systems & Scalable Backends</h1>
 
 ###
 
